@@ -18,6 +18,21 @@ Project/Data/tbl_current_emp.csv.
      . Practice using different joins to create new tables in pgAdmin.
      . Write basic- to intermediate-level SQL statements.
      
+     
+## EmployeeDB ERD
+   This flowchart, also known as ERD diagram, depits the entity relationship between tables. 
+   This diagram serves as blue print for our database, with all our tables are connected on primary keys,
+   and data types. The benefit for building out each form of diagram is gives us more exposure to data and its layout.
+   When writing queries in SQL, data is organized into tables, as shown in the ERD. With the help of the diagram, 
+   we know the structure of the table: the amount of columns with their data types. The table can be, already, named. 
+   All we need to do is transfer over the same information.
+
+    ![](/Pewlett-Hackard-Analysis/employeedb(1).png)
+   
+     
+     
+     
+     
 ## Challenge Overview
    In this challenge, we used advanced queries and joins to create a list of candidates for the mentorship program. 
    To complete this task, we used our knowledge of aliasing, filtering, and creating new tables.
