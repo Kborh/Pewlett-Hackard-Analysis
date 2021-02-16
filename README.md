@@ -12,11 +12,11 @@ Project/Data/tbl_current_emp.csv.
     
     
 ## Objectives
-     .Design an ERD that applies to the data.
-     .Create and use a SQL database.
-     .Import and export large CSV datasets into pgAdmin.
-     .Practice using different joins to create new tables in pgAdmin.
-     .Write basic- to intermediate-level SQL statements.
+     . Design an ERD that applies to the data.
+     . Create and use a SQL database.
+     . Import and export large CSV datasets into pgAdmin.
+     . Practice using different joins to create new tables in pgAdmin.
+     . Write basic- to intermediate-level SQL statements.
      
 ## Challenge Overview
    In this challenge, we used advanced queries and joins to create a list of candidates for the mentorship program. 
@@ -24,7 +24,7 @@ Project/Data/tbl_current_emp.csv.
    
    
 ## Challenge Objectives
-     .Use an ERD to understand relationships between SQL tables.
-     .Create new tables in pgAdmin by using different joins.
-     .Write basic- to intermediate-level SQL statements.
-     .Export new tables to a CSV file.
+     . Use an ERD to understand relationships between SQL tables.
+     . Create new tables in pgAdmin by using different joins.
+     . Write basic- to intermediate-level SQL statements.
+     . Export new tables to a CSV file.
