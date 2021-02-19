@@ -43,3 +43,11 @@ Project/Data/tbl_current_emp.csv.
      . Create new tables in pgAdmin by using different joins.
      . Write basic- to intermediate-level SQL statements.
      . Export new tables to a CSV file.
+     
+## Conclusion
+   Seeing the 63 % of the workforce is either retirment or mentorship eligible there will most likely be many positions to 
+   fill over the next 5-10 years. There may not exactly be enough people in the workforce to take care of the tasks or even 
+   come close to the amount of experience to fill these roles so quickly but what companies can do is try to best learn about 
+   what these employees did to be so successful/ having such long lasting careers to continue the tradition for future employees. 
+   Most likely the future generation is more computer savy/ efficent due to technologies and can catch on quickly helping companies 
+   continue to trend in the right direction by keeping revenues up.
